@@ -1,1 +1,11 @@
+cmds of git 
+git init
+git remote add origin “gitHUB_URL”
+git add -A
+git commit -m "msg"
+git push -u origin master
+git pull origin master
+
+
+
 this is pull request file
